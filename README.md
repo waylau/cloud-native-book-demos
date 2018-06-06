@@ -1,2 +1,2 @@
-# cloud-native-book-demos
-Cloud Native Book Demos.
+# Cloud Native Book Demos
+
