@@ -1,4 +1,4 @@
-# Cloud Native Book Demos
+# Cloud Native Book Demos（Cloud Native 案例大全）
 
 
 ## 内容简介
@@ -25,10 +25,24 @@
 * ch02/spring-rest：基于 Spring MVC 构建 REST 服务
 * ... 强势更新中
 
-## Contact 联系作者:
+## 联系作者
 
-* Blog: [waylau.com](https://waylau.com)
-* Gmail: [waylau521(at)gmail.com](mailto:waylau521@gmail.com)
-* Weibo: [waylau521](http://weibo.com/waylau521)
-* Twitter: [waylau521](https://twitter.com/waylau521)
-* Github : [waylau](https://github.com/waylau)
+您也可以直接联系我：
+
+* 博客：https://waylau.com
+* 邮箱：[waylau521(at)gmail.com](mailto:waylau521@gmail.com)
+* 微博：http://weibo.com/waylau521
+* 开源：https://github.com/waylau
+
+## 其他书籍
+
+若您对本书不感冒，笔者还写了其他方面的超过一打的书籍（可见<https://waylau.com/books/>），多是开源电子书。
+
+本人也维护了一个[books-collection](https://github.com/waylau/books-collection)项目，里面提供了优质的专门给程序员的开源、免费图书集合。
+
+## 开源捐赠
+
+
+![开源捐赠](https://waylau.com/images/showmethemoney-sm.jpg)
+
+捐赠所得所有款项将用于开源事业！见[捐赠列表](https://waylau.com/donate)。
