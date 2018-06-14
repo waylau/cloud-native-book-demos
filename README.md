@@ -12,6 +12,9 @@
 * Spring 5.0.6.RELEASE
 * Eclipse Jetty 9.4.10.v20180503
 * Jackson JSON 2.9.5
+* Gradle 4.5
+* Spring 5.0.6.RELEASE
+* Spring Boot 2.0.2.RELEASE
 * ...
 
 ## Code 源码
@@ -23,6 +26,8 @@
 * ch02/Jersey-rest：基于 Jersey 构建 REST 服务
 * ch02/cxf-rest：基于 Apache CXF 构建 REST 服务
 * ch02/spring-rest：基于 Spring MVC 构建 REST 服务
+* ch02/initializr-start：初始化 Spring Boot 原型
+* ch02/boot-rest：基于 Spring Boot 的第一个微服务
 * ... 强势更新中
 
 ## 联系作者
