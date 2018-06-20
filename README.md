@@ -14,7 +14,8 @@
 * Jackson JSON 2.9.5
 * Gradle 4.5
 * Spring 5.0.6.RELEASE
-* Spring Boot 2.0.2.RELEASE
+* Spring Boot 2.0.3.RELEASE
+* Spring Cloud Finchley.RELEASE
 * ...
 
 ## Code 源码
@@ -28,6 +29,7 @@
 * ch02/spring-rest：基于 Spring MVC 构建 REST 服务
 * ch02/initializr-start：初始化 Spring Boot 原型
 * ch02/boot-rest：基于 Spring Boot 的第一个微服务
+* ch04/eureka-client、ch04/eureka-server：实现服务的注册与发现
 * ... 强势更新中
 
 ## 联系作者
