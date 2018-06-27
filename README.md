@@ -13,9 +13,10 @@
 * Eclipse Jetty 9.4.10.v20180503
 * Jackson JSON 2.9.5
 * Gradle 4.5
-* Spring 5.0.6.RELEASE
 * Spring Boot 2.0.3.RELEASE
 * Spring Cloud Finchley.RELEASE
+* Spring Security 5.0.6.RELEASE
+* Spring Cloud Security 2.0.0.RELEASE
 * ...
 
 ## Code ิดย๋
