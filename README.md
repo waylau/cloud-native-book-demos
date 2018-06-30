@@ -9,14 +9,20 @@
 * Jersey 2.27
 * JUnit 4.12
 * Apache CXF 3.2.4
-* Spring 5.0.6.RELEASE
+* Spring 5.0.7.RELEASE
 * Eclipse Jetty 9.4.10.v20180503
 * Jackson JSON 2.9.5
-* Gradle 4.5
+* Gradle 4.5.1
 * Spring Boot 2.0.3.RELEASE
 * Spring Cloud Finchley.RELEASE
 * Spring Security 5.0.6.RELEASE
 * Spring Cloud Security 2.0.0.RELEASE
+* Spring Security OAuth 2.3.3.RELEASE
+* MongoDB 3.6.4
+* Spring Data MongoDB 2.0.8.RELEASE
+* Thymeleaf 3.0.9.RELEASE
+* Thymeleaf Layout Dialect 2.2.0
+* Embedded MongoDB 2.0.2
 * ...
 
 ## Code 源码
@@ -31,6 +37,7 @@
 * ch02/initializr-start：初始化 Spring Boot 原型
 * ch02/boot-rest：基于 Spring Boot 的第一个微服务
 * ch04/eureka-client、ch04/eureka-server：实现服务的注册与发现
+* [ch06/mongodb-file-server](https://github.com/waylau/mongodb-file-server)：文件服务器的实现
 * ... 强势更新中
 
 ## 联系作者
