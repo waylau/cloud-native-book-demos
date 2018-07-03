@@ -24,6 +24,8 @@
 * Thymeleaf Layout Dialect 2.2.0
 * Embedded MongoDB 2.0.2
 * Axon Framework 3.2
+* Spring Cloud Stream Elmhurst.RELEASE
+* RabbitMQ 3.7.2
 * ...
 
 ## Code 源码
@@ -40,6 +42,7 @@
 * ch04/eureka-client、ch04/eureka-server：实现服务的注册与发现
 * [ch06/mongodb-file-server](https://github.com/waylau/mongodb-file-server)：文件服务器的实现
 * ch07/axon-cqrs：实现 CQRS
+* ch07/cloud-stream：基于 Spring Cloud Stream 的消息通信
 * ... 强势更新中
 
 ## 联系作者
