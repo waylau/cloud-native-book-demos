@@ -26,6 +26,7 @@
 * Axon Framework 3.2
 * Spring Cloud Stream Elmhurst.RELEASE
 * RabbitMQ 3.7.2
+* H2 Database Engine 1.4.197
 * ...
 
 ## Code 源码
@@ -43,6 +44,7 @@
 * [ch06/mongodb-file-server](https://github.com/waylau/mongodb-file-server)：文件服务器的实现
 * ch07/axon-cqrs：实现 CQRS
 * ch07/cloud-stream：基于 Spring Cloud Stream 的消息通信
+* ch08/jdbc-batch：使用 JDBC Batch 的例子
 * ... 强势更新中
 
 ## 联系作者
