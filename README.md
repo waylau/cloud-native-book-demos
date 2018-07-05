@@ -34,6 +34,10 @@
 * Apache HttpClient 4.5.5
 * Logback Classic Module 1.2.3
 * Quartz Scheduler 2.3.0
+* Elasticsearch 6.0
+* Logstash 6.0
+* Kibana 6.0
+* Logstash Logback Encoder 5.1
 * ...
 
 ## Code ิดย๋
