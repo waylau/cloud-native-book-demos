@@ -27,6 +27,7 @@
 * Spring Cloud Stream Elmhurst.RELEASE
 * RabbitMQ 3.7.2
 * H2 Database Engine 1.4.197
+* Spring Batch 4.0.1.RELEASE
 * ...
 
 ## Code 源码
@@ -45,6 +46,7 @@
 * ch07/axon-cqrs：实现 CQRS
 * ch07/cloud-stream：基于 Spring Cloud Stream 的消息通信
 * ch08/jdbc-batch：使用 JDBC Batch 的例子
+* ch08/spring-batch：使用 Spring Batch 的例子
 * ... 强势更新中
 
 ## 联系作者
