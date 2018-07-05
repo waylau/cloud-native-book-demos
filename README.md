@@ -34,10 +34,13 @@
 * Apache HttpClient 4.5.5
 * Logback Classic Module 1.2.3
 * Quartz Scheduler 2.3.0
+* Spring Cloud Starter Netflix Hystrix 2.0.0.RELEASE
 * Elasticsearch 6.0
 * Logstash 6.0
 * Kibana 6.0
 * Logstash Logback Encoder 5.1
+* Spring Cloud Config Client 2.0.0.RELEASE
+* Spring Cloud Config Server 2.0.0.RELEASE
 * ...
 
 ## Code 源码
@@ -58,6 +61,9 @@
 * ch08/jdbc-batch：使用 JDBC Batch 的例子
 * ch08/spring-batch：使用 Spring Batch 的例子
 * ch09/quartz-scheduler：基于 Quartz Schedule 天气预报系统
+* ch10/hello-service、ch10/circuit-breaker：实现微服务的熔断机制
+* ch10/elastic-log：基于 Elastic Stack 的集中化日志管理
+* ch10/config-client、ch10/config-server：基于 Config 实现的配置中心
 * ... 强势更新中
 
 ## 联系作者
