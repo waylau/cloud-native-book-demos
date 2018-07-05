@@ -28,6 +28,12 @@
 * RabbitMQ 3.7.2
 * H2 Database Engine 1.4.197
 * Spring Batch 4.0.1.RELEASE
+* Servlet 4.0.0
+* Eclipse Jetty 9.4.11.v20180605
+* Jackson JSON 2.9.6
+* Apache HttpClient 4.5.5
+* Logback Classic Module 1.2.3
+* Quartz Scheduler 2.3.0
 * ...
 
 ## Code 源码
@@ -47,6 +53,7 @@
 * ch07/cloud-stream：基于 Spring Cloud Stream 的消息通信
 * ch08/jdbc-batch：使用 JDBC Batch 的例子
 * ch08/spring-batch：使用 Spring Batch 的例子
+* ch09/quartz-scheduler：基于 Quartz Schedule 天气预报系统
 * ... 强势更新中
 
 ## 联系作者
