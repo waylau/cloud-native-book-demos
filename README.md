@@ -41,6 +41,8 @@
 * Logstash Logback Encoder 5.1
 * Spring Cloud Config Client 2.0.0.RELEASE
 * Spring Cloud Config Server 2.0.0.RELEASE
+* Docker 17.09.1-ce-win42
+* Gradle Docker 0.17.2
 * ...
 
 ## Code 源码
@@ -64,6 +66,7 @@
 * ch10/hello-service、ch10/circuit-breaker：实现微服务的熔断机制
 * ch10/elastic-log：基于 Elastic Stack 的集中化日志管理
 * ch10/config-client、ch10/config-server：基于 Config 实现的配置中心
+* ch11/hello-docker：使用 Docker 来构建、运行、发布微服务
 * ... 强势更新中
 
 ## 联系作者
