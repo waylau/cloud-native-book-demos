@@ -1,4 +1,4 @@
-package com.waylau.docker.controller;
+package com.waylau.spring.boot.controller;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.waylau.docker;
+package com.waylau.spring.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
