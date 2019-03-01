@@ -94,7 +94,7 @@ Cloud Native（云原生）是以云架构为优先的应用开发模式。目�
 
 本书如有勘误，会在<https://github.com/waylau/cloud-native-book-demos/issues>上进行发布。由于笔者能力有限，时间仓促，难免错漏，欢迎读者批评指正。
 
-您也可以上[豆瓣](https://book.douban.com/subject/30370024/)给老卫打Call。
+您也可以上[豆瓣](https://book.douban.com/subject/30476287/)给老卫打Call。
 
 
 
