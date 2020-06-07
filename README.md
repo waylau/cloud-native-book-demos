@@ -109,7 +109,12 @@ Cloud Native（云原生）是以云架构为优先的应用开发模式。目�
 * [亚马逊](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=%E6%9F%B3%E4%BC%9F%E5%8D%AB+Cloud+Native+%E5%88%86%E5%B8%83%E5%BC%8F%E6%9E%B6%E6%9E%84%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5&rh=i%3Aaps%2Ck%3A%E6%9F%B3%E4%BC%9F%E5%8D%AB+Cloud+Native+%E5%88%86%E5%B8%83%E5%BC%8F%E6%9E%B6%E6%9E%84%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5)
 
 
-也可以直接关注我博客（<https://waylau.com/>）或者我的开源书（<https://waylau.com/books/>）。
+
+想低于市价得到本书？来[二手书集市](https://github.com/waylau/second-hand-books)试试看。
+
+
+也可以直接关注我博客（<https://waylau.com/>）或者我的开源书（<https://waylau.com/books/>）了解更多免费咨询。
+
 
 
 ## 联系作者
